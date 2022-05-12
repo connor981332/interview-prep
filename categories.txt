@@ -1,0 +1,16 @@
+Algorithms
+	Sorting
+		Selection Sort
+		Insertion Sort
+		Bubble Sort
+		Merge Sort
+		Quick Sort
+	Searching
+		Scenario
+			Number in a list
+			Node in a tree
+			Destination on a map
+		Algorithms
+			Binary Search
+			Depth First Search
+			Breadth First Search	
